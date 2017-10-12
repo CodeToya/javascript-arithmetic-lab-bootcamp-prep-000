@@ -1,6 +1,6 @@
 var a = 3
 var b = 9
-
+var n = 15.23
 
 function add(a, b){
   return a + b
