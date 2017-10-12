@@ -18,10 +18,10 @@ function divide (a,b){
   return a/b
 }
 
-function inc(n){
-  return n++
+function inc(a){
+  return a++
 }
 
-function inc(n){
-  return n--
+function inc(a){
+  return a--
 }
