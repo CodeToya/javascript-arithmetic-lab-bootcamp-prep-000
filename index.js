@@ -18,10 +18,17 @@ function divide (a,b){
   return a/b
 }
 
-function inc(a){
-  return a++
+function inc(n){
+  return n++
 }
 
-function inc(a){
-  return a--
+function dec(n){
+  return n--
+}
+
+function makeInt(n,10){
+  return  
+}
+function preserveDecimal(n, 10){
+  return
 }
